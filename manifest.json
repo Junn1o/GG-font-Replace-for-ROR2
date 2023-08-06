@@ -1,0 +1,12 @@
+{
+    "name": "google font",
+    "version_number": "1.0",
+    "website_url": "https://github.com/Junn1o/GG-font-Replace-for-ROR2",
+    "description": "a font that will make the game understand the unicode of Vietnamese",
+    "dependencies": [
+        "TheMysticSword-FontReplacer-1.0.0",
+        "RiskofThunder-HookGenPatcher-1.2.3", 
+        "bbepis-BepInExPack-5.4.2113",
+        "Rune580-Risk_Of_Options-2.7.0"
+    ]
+}
